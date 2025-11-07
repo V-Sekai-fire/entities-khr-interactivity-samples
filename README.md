@@ -119,6 +119,19 @@ These samples can be used for:
 
 These samples were extracted from the [glTF-InteractivityGraph-AuthoringTool](https://github.com/KhronosGroup/glTF-InteractivityGraph-AuthoringTool) test suite.
 
+**Source Repository:**
+- GitHub: https://github.com/KhronosGroup/glTF-InteractivityGraph-AuthoringTool.git
+- Official Khronos Group repository for the KHR_interactivity authoring tool
+
+**Source Location:**
+- Path: `tst/testGraphs/` directory within the glTF-InteractivityGraph-AuthoringTool repository
+- These are test graphs used by the authoring tool's test suite (`tst/khr_interactivity.test.ts`)
+- The samples demonstrate various KHR_interactivity features and are suitable for testing behavior graph runtimes
+
+**Extraction:**
+- All 8 JSON test files were copied from the test suite
+- Samples were organized here for easier access and use in testing Part 1 (AST → JSON) and Part 2 (JSON → C++) transformation pipelines
+
 ## License
 
 These samples are provided for educational and testing purposes. Please refer to the original source repository for licensing information.
