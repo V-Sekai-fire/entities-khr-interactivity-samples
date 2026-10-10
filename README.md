@@ -12,4 +12,4 @@ There is nothing to build. A runtime under test loads a sample and runs it.
 
 ## Licence
 
-The samples come from the upstream authoring tool's repository and are under its licence, Apache-2.0. This repository does not yet carry a copy of that LICENSE or a NOTICE, which Apache-2.0 redistribution requires.
+Apache-2.0. See [LICENSE](LICENSE). The samples come from the upstream authoring tool's repository and are under its licence, Apache-2.0.
